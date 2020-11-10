@@ -121,6 +121,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
@@ -129,3 +130,5 @@ exclude:
   - README.md
   - screenshot.png
   - vendor
+whitelist:
+  - jekyll-redirect-from
