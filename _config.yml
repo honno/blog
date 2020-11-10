@@ -1,14 +1,12 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Honno's Blog
+email:       quitesimplymatt@gmail.com
+author:      Matthew Barber
+description: Personal blog of Matthew Barber.
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://blog.matthewbarber.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -47,11 +45,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: Honno
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: WhoStoleHonno
 skype_username:
 steam_nickname:
 google_plus_id:
