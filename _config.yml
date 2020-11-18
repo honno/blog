@@ -120,6 +120,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-gist
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
@@ -130,3 +131,4 @@ exclude:
   - vendor
 whitelist:
   - jekyll-redirect-from
+  - jekyll-gist
