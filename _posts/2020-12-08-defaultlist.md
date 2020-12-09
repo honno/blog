@@ -6,8 +6,11 @@ summary:    We all love Python's defaultdict, but how about a list variant?
 
 Python's 
 [`defaultdict`](https://docs.python.org/3/library/collections.html#collections.defaultdict)
-is an incredibly useful tool to specify default values for missing keys
-([RealPython has a great primer on them](https://realpython.com/python-defaultdict/)).
+is an incredibly useful tool
+to specify default values for missing keys
+(RealPython has a
+[great primer](https://realpython.com/python-defaultdict/)
+on them).
 
 I found I was taking up so much memory to store the value 0 for an algorithm which
 counted rather infrequent elements in a huge sequence split into many chunks.
